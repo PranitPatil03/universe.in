@@ -1,0 +1,36 @@
+*{
+    background-color: #EEEEEE;
+}
+.logo-text {
+    color:black;
+    font-size: 50px;
+    margin: 10px;
+    margin-left: 100px;
+}
+
+.navbar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    flex-direction: row;
+    margin-right: 120px;
+}
+
+.items li{
+    display:inline-block;
+    margin-top:0px;
+    padding: 10px;
+    font-size:20px;
+    font-weight:500;
+}
+
+
+
+
+
+
+
+
+
+
+
